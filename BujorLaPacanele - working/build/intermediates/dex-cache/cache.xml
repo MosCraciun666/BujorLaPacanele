@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-6cf7c2b8085c27f31f89275897c5ca78dd295efd.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-778db0e370249b0e19649aee025bf0cde7740487.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-cb786575750a8c824d06df5a89550f819b49bd3f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-8fecdecf99a1819177d9ce6f92688433b8421d14.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-9efe9cd8b78d620648b838cadeb50b820b750581.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-cafea717ff184268d47d418fdf963e63aad04d48.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-af3b17f1609f3c71718c294a3800804fb69442f9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-223cad1bb3d16769d88848fd5d335f3803fe2a0c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-003f255fe69e8b7bce4a0649cc7d881f8463ed2a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-4d93f250c03bdcf0899bbf34e7409c75bbe9d5a6.jar" />
+    </item>
+    <item
+        jar="E:\Programming Tools\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-248e46e812c477e8c5ec7024c67cf080b511107d.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-988bbbda85bee74eadb0f0bb55a12057b3590b75.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4b23b802abb8c379aa252df2b321c70792d8934a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-e26dbde34072388f36ba11d64cb84a6033a1798a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\libs\AppTracker.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cc5636727a279d6c32745d779de69f0c42f753e6">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\AppTracker-c9e713f70574e0a10bd59dca1f3ae234d0c2d4f0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-4c46847fdf64f7a3de8c2400b0088131a843e2bf.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-255430b4da8d1398eb5d7014308a9a220f52e917.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-d9fc0555652b78dabae077165a026f76cd8b2279.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-d3e61421770159d66dee49d22615fbbdcb2a88bc.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-56b2cc715ceb5044b9fab33627312ec529fdbeee.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-b6f10cb17d22d5ba490849d06d4816aea58ddf2f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-e4903a7157722917617b922a554185a64c56a7b1.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-075c5fe9730bff9a4b7ef49db79d6cc6b3285637.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-4779d6e7371a9d8dfea44bdc24447b5284dd12e9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-da101f2c64c0dd814a1a9dd674ad4daab6d63610.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-cd5ece456862a975e2b7464c1fcc5b6cba6cc318.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-e1e001e197391074782d9df7b0acf4e3d7676c95.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="E:\AndroidStudioProjects\BujorLaPacanele - working\app\build\intermediates\pre-dexed\debug\classes-07f10ba9b78fbfb81a0dc66d9922a83d8c2ab675.jar" />
+    </item>
+
+</items>
